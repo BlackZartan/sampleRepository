@@ -1,0 +1,26 @@
+aside, section, article{
+	background-color: grey;
+	border: 1px solid #222;
+	margin: 10px;
+	float: left;
+}
+
+aside{
+	height: 800px;
+	width: 20%;
+}
+
+section{
+	height: 300px;
+	width: 76%;
+	
+}
+
+article{
+	width: 150px;
+	height: 150px;
+}
+
+main{
+	height: 
+}
